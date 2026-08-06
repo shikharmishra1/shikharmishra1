@@ -19,7 +19,6 @@ Some people collect browser tabs. I collect retrieval metrics.
 | Signal | Result |
 |:--|--:|
 | RAG answer accuracy | **93%** |
-| Documents indexed and searched | **10,000+** |
 | Domain embedding recall | **96%** |
 | Active-user growth linked to NLP personalization | **2×** |
 | Longer average sessions | **120%** |
