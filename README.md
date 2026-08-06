@@ -77,6 +77,4 @@ Building production AI systems at **1Ansah Technologies**, with a particular int
 
 [Let’s talk.](mailto:shikharmishra.nu@gmail.com)
 
-<sub>No chatbots were asked to “delve” during the making of this README.</sub>
-
 </div>
