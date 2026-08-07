@@ -6,7 +6,7 @@
 
 AI engineer building agentic systems, document intelligence, semantic search, and the occasional programming language—because apparently one syntax wasn’t enough.
 
-[LinkedIn](https://www.linkedin.com/in/shikhar-mishra-17b5a1231/) · [GitHub](https://github.com/shikharmishra1) · [Email](mailto:shikharmishra.nu@gmail.com) · [Résumé](./Shikhar_Mishra_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/shikhar-mishra-17b5a1231/) · [GitHub](https://github.com/shikharmishra1) · [Email](mailto:shikharmishra.nu@gmail.com) · [Résumé](./Shikhar_Mishra_AIE.pdf)
 
 </div>
 
